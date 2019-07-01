@@ -9,10 +9,10 @@
 
 <img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201904.png" width="200" height="400" />
 
-<img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201754.png =250x250" width="200" height="400" />
+<img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201754.png" width="200" height="400" />
 
 
-<img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201758.png =250x250" width="200" height="400" />
+<img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201758.png" width="200" height="400" />
 
 
 
