@@ -6,15 +6,14 @@
 ### Algumas Fotos: 
 
 <img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201853.png" width="200" height="400" />
-![](https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201853.png =250x250)
 
-![](https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201904.png =250x250)
+<img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201904.png" width="200" height="400" />
 
-![](https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201754.png =250x250)
-
-![](https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201758.png =250x250)
+<img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201754.png =250x250" width="200" height="400" />
 
 
+<img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201758.png =250x250" width="200" height="400" />
 
 
-# Escreverei conforme for pensando em coisas interessantes para notificar aqui.
+
+### Escreverei conforme for pensando em coisas interessantes para notificar aqui.
