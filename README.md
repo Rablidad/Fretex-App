@@ -5,6 +5,8 @@
 
 ### Algumas Fotos: 
 
+<img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190703-202725.png" width="200" height="400"/>
+
 <img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201853.png" width="200" height="400" />
 
 <img src="https://github.com/rablidad/Fretex-App/blob/master/images/readmeImages/Screenshot_20190701-201904.png" width="200" height="400" />
